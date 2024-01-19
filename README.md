@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Julien and I'm a web developper (well, i'm currently learning). I'm from France and live in a quiet town near Paris.<br><br>Je m'appelle Julien et suis en cours de formation pour devenir développeur web (formation dispensé par O'clock).</p>
+<p align="left">My name is Julien and I'm a web developper (well, i'm currently learning). I'm from France and live in a quiet town near Paris.<br><br>Je m'appelle Julien et suis en cours de formation pour devenir développeur web (formation dispensée par O'clock).</p>
 
 ###
 
