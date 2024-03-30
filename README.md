@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 À propos de moi :
 Actuellement en formation chez O'clock pour devenir développeur fullstack PHP, j'ai cepedant une appétence pour le développement backend.<br>N'hésitez pas à me contacter pour en savoir plus !
 
 
-## 🌐 Socials:
+## 🌐 Réseaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Julien Dussaut) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Actuellement en formation chez O'clock pour devenir développeur fullstack PHP, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Julien-Dussaut&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-Dussaut&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trophés GitHub 
 ![](https://github-profile-trophy.vercel.app/?username=Julien-Dussaut&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
