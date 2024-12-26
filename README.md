@@ -1,6 +1,8 @@
 # 💫 À propos de moi :
-Actuellement en formation chez O'clock pour devenir développeur fullstack PHP, j'ai cepedant une appétence pour le développement backend.<br>N'hésitez pas à me contacter pour en savoir plus !
-
+Après une formation intensive chez O'clock, j'ai obtenu mon titre professionnel de Développeur web et web mobile.<br>
+Lors de cette formation, j'ai suivi une spécialisation sur le framework PHP Symfony ! <br>
+J'ai ensuite effectué un stage au sein de pepite.club en tant que développeur backend Symfony ce qui m'a permis de découvrir et de pratiquer à 100% l'utilisation du bundle Symfony UX.<br>
+N'hésitez pas à visiter mon [portfolio](https://www.julien-dussaut.com) afin d'en apprendre plus sur moi ! 
 
 ## 🌐 Réseaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Julien Dussaut](https://www.linkedin.com/in/julien-dussaut-523149a9/)) 
